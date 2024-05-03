@@ -30,6 +30,8 @@
  ****************************************************************************/
 
 #define CHAR_BIT    8
+#define CHAR_BIT_2  16
+
 #define SCHAR_MIN  (-SCHAR_MAX - 1)
 #define SCHAR_MAX   127
 #define UCHAR_MAX   255
